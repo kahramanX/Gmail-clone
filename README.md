@@ -1,4 +1,4 @@
-# Gmail-colone
+# Gmail-clone
 Hello there, Since I plan to develop myself in the Front-end area, I do small projects like this. 
 There are some shortcomings now;
 
